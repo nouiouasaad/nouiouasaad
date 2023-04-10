@@ -1,8 +1,8 @@
 ### Hi there 👋. My name is Saad Nouioua. 
 #### I am a Full-stack Developer
 
-#### Technologies and Tools I work with
-- Laravel, MySql
+#### I work with
+- Php, Laravel, MySql
 - Node.js, Express.js, MongoDB
 - Bootstrap, React
 - Docker, Git
