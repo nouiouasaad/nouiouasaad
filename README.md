@@ -6,7 +6,7 @@ Highly motivated and self-taught Developer,with a passion for developing innovat
 #### I work with
 - Php, Laravel, MySql
 - Node.js, Express.js, MongoDB
-- Bootstrap, React
+- React
 - Docker, Git
 
 #### Connect with me!
