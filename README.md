@@ -5,9 +5,9 @@ Highly motivated and self-taught Developer,with a passion for developing innovat
 
 #### I work with
 - Java, Spring Boot
-- Php, Laravel, MySql
-- Node.js, Express.js, MongoDB
+- Node.js, ExpressJs, NestJs
 - React js
+- PostgreSql, Mysql, MongoDB
 - Docker, Git
 
 #### Connect with me!
